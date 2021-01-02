@@ -9,22 +9,22 @@ collections:
     title: Uploads
     output: true
 defaults:
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: default
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
 email: itwassme@gmail.com
 description: A blog about Japan
-baseurl: 
-url: 
+baseurl:
+url:
 twitter_username: itwassme
 github_username: itwassme
 theme: minima
 plugins:
-- jekyll-feed
+  - jekyll-feed
