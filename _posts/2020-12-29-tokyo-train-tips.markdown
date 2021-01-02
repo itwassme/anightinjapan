@@ -6,16 +6,30 @@ excerpt: Here are my five tips to keep you sane and get you to your destination 
 layout: default
 ---
 
-Tokyo is one of the most exciting cities on Earth, and has a legendary nightlife. You can begin your evening at a tachinomi stand bar, drink and dine at a cozy izakaya, enjoy seasonal cocktails at an only-in-Tokyo mixology counter, venture into a hole-in-the-wall rock or hip hop club, sing all-night karaoke à la Bill Murray in Lost in Translation, and dance until morning to the beats of DJs from around the world. In short, Tokyo is home to one of the most diverse and fascinating nightlife scenes on the planet!
+When you first arrive in Tokyo it won’t be long before you need to use the subway.  It’s the most efficient way to get to from A to B in super quick time; you just have to master the lines and how they interact first. It’s a major feat of engineering and makes daily life flow for millions of people in Tokyo but it can be a bit overwhelming when you first encounter it.  You’re not going to be able to avoid it for long though so you might as well jump right in.  Here are my five tips to keep you sane and get you to your destination on the Tokyo Subway.
 
-In such a massive metropolis, and with so many amazing options, trying to decide what to do can be overwhelming. So to help you figure out where to begin, before you see where the night takes you, we’ve put together this introductory guide to Tokyo nightlife, featuring an overview of Tokyo’s best nightlife districts and more!
+Known as the Tōkyō chikatetsu, in English it can be translated and referred to as the Tokyo Metro, subway or even the Tokyo Underground depending on who you are talking to but hotel conceirge desks and locals we spoke to generally referred to it as the subway so we mostly stuck with that to avoid confusion.
 
-Of course, with a complex and ever-changing nightlife scene, this is only a small sampling of what’s out there – and many of the best spots are firmly off the radar of most travelers (and even locals), with some venues even lacking addresses.
+### Stored value & discount cards
 
-To get you started, here’s an overview of what you can expect from a handful of Tokyo’s most prominent nightlife neighborhoods, Shibuya. As one of Tokyo’s most densely packed and brightly-lit central districts, it’s no surprise that Shibuya stays up late, with countless eateries, boutiques, watering holes, clubs, arcades and karaoke bars catering to night owls well into the small hours.
+Unless you’re only in the country for a day or two you’ll really benefit from grabbing a stored value card.  It’ll make getting on and off the trains so much quicker than using the  ticket machines all the time.  You can buy a PASMO card from a machine or the station office and then just top it up when you need to.  If you already have another Japanese transport card like the Suica or ICOCA they will work fine too.  You can now use the cards interchangably across the Japanese Subway in various cities and many other forms of public transport.
 
-If you’re going to miss the last train (most trains and subways only run until around the midnight hour), this is the place to be.
+### You don’t need to speak Japanese
 
-Shibuya is especially popular with Tokyo’s youth, but is relatively accessible to and full of non-Japanese locals and visitors as well. With dozens of clubs featuring top local and international DJs, Shibuya is one of the city’s dance music hubs. There are also countless smaller establishments well worth checking out, including the character-filled Nonbei Yokocho, an old-fashioned area of tightly-packed side streets filled with charming tiny bars and intriguing restaurants.
+The good news is that Tokyo Subway is bi-lingual.  If you speak and read English you’ll have no problems with a language barrier. The signs, ticket machines, maps and announcements all have English versions.
 
-[Read more about Tokyo’s night life neighborhoods.](https://boutiquejapan.com/tokyo-nightlife-guide/)
+### Tokyo Subway Signs
+
+The location signs are located on the wall of the platform opposite where you stand (across the track) they show the direction of travel for the train and the name of the next station with an English translation.  You can read signs on platforms from within the train and there’s also an electronic board in many trains showing you the station you’re at and how many stops until your destination.
+
+### Tokyo Metro Operating Hours & Frequency
+
+When you arrive on the platform in time to see your train pulling out don’t worry, the subway is so frequent that I usually don’t even check the timetable.  It’s inevitable that sometimes you’ll time it perfectly and others you’ll just miss.  The next train will be along in a few minutes.
+
+The exception to be aware of it that the subway system in Tokyo isn’t 24/7 so it pays to check your line to make sure you aren’t stuck with a very expensive taxi fare at the end of the night.  Our experience has been that the Tokyo subway system runs,
+
+### When it all goes wrong
+
+If you suddenly realise you’re passing stations going the wrong direction – don’t panic, get off at the next stop, cross the platform, wait a few seconds and jump on the train that stops.  It’s easy to get turned around when you’re underground and rush from an arriving train.  I think we’ve all done this at least once.  It’s far more embarrassing to admit that I’ve managed to do it in Kyoto and they only have two subway lines!  There’s also no additional cost from your original route as you don’t need to exit through the gate until your destination.
+
+Still have questions about getting around in Japan? [Visit Top tips for transport in Japan](https://www.2aussietravellers.com/top-tips-for-transport-in-japan/ ) and while not used on the subways themselves read [Everything you need to know about the Japan Rail Pass](https://www.2aussietravellers.com/japan-rail-pass/) to work out if it could be a budget saver for your trip.
